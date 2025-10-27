@@ -24,7 +24,7 @@ img {
 .Titel {
     text-align: center;
     font-size: 2.5em;
-    color: black;
+    color: violet;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
@@ -37,7 +37,7 @@ img {
 .Text {
     text-align: center;
     font-size: 2em;
-    color: black;
+    color: violet;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
@@ -54,9 +54,9 @@ a {
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: violet;
     font-family: "Playwrite AT", cursive;
-    -webkit-text-stroke-color: orange;
+    -webkit-text-stroke-color: white;
     -webkit-text-stroke-width: 0.125px;
 }
 
@@ -67,7 +67,7 @@ footer {
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: white;
+    text-decoration-color: violet;
     font-family: "Playwrite AT", cursive;
     -webkit-text-stroke-color: white;
     -webkit-text-stroke-width: 0.125px;
